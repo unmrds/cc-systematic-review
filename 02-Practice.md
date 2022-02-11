@@ -37,6 +37,8 @@
 6. **The file will be saved as a .txt file.**
 
 
+***
+
 
 ### Zotero Exports
 
@@ -82,6 +84,8 @@ If you use a citation management tool (Zotero, EndNote, etc), you can download t
 [ZoteroSample5](https://github.com/unmrds/cc-systematic-review/blob/main/ZoteroSample5.ris)
 
 
+***
+
 
 ### Uploading files into Covidence
 
@@ -116,7 +120,7 @@ Covidence will automatically check for and discard duplicates. You can view any 
 7. **Follow the steps above for your Zotero file (either the one you created or one of the downloaded sample files).** 
 
 
-
+***
 
 
 ## Settings
@@ -170,6 +174,8 @@ There are two default "study tags" which cannot be deleted. Teams can add tags a
 
 11. **Click on the back arrow at the top of the screen to return to the Review Summary screen.**
 
+
+***
 
 
 ## Screening
@@ -245,6 +251,7 @@ In your small group, **decide who will upload each full text file** (see above).
 All included articles will move into the Extraction queue.
 
 
+***
 
 
 ## Data Extraction
