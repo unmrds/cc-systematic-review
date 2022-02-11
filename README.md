@@ -8,7 +8,11 @@
 
 2. Accept the invitation to participate in a Coffee & Code review on [Covidence](https://app.covidence.org) (required to participate)
 
-> If you are UNM affiliated, you may also create your own account allowing you to create unlimited reviews.
+![image of email from Covidence](3SignUp.png)
+
+If you are UNM affiliated, you may also [create your own account](https://app.covidence.org/organizations/QlZl7/signup) allowing you to create unlimited reviews.
+
+![image of UNM Covidence sign up page](2SignUp.png)
 
 3. Sign up for [Zotero](https://www.zotero.org/) (not required, but may be helpful)
 
