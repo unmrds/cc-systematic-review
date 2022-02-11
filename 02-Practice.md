@@ -205,6 +205,8 @@ There are two default "study tags" which cannot be deleted. Teams can add tags a
 5. Your progress is tracked. If your group had any conflicts, you will be prompted to resolve them. If your group had two people vote to include a title/abstract, it will be in the Full text review box.
 
 
+***
+
 
 ### Full text review
 
