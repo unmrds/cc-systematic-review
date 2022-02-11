@@ -2,11 +2,13 @@
 
 ## Prework
 
-1. Read the methods section of the [article](https://libkey.io/libraries/2623/articles/54369214/full-text-file?utm_source=nomad); review or skim the rest of the article
+### 1. Read the methods section of the [article](https://libkey.io/libraries/2623/articles/54369214/full-text-file?utm_source=nomad); review or skim the rest of the article
 
 > Citation for Prework article: Moriarty JP, Murad MH, Shah ND, Prasad C, Montori VM, Erwin PJ, Forbes TL, Meissner MH, Stoner MC; Society for Vascular Surgery Committee on Comparative Effectiveness. A systematic review of lower extremity arterial revascularization economic analyses. J Vasc Surg. 2011 Oct;54(4):1131-1144.e1. doi: 10.1016/j.jvs.2011.04.058. PMID: 21971093.
 
-2. Accept the invitation to participate in a Coffee & Code review on [Covidence](https://app.covidence.org) (required to participate)
+### 2. Accept the invitation to participate in a Coffee & Code review on [Covidence](https://app.covidence.org) (required to participate)
+
+Follow the email prompts you will receive to create an account to be able to participate in the Coffee & Code review. See an example email: 
 
 ![image of email from Covidence](3SignUp.png)
 
@@ -14,16 +16,24 @@ If you are UNM affiliated, you may also [create your own account](https://app.co
 
 ![image of UNM Covidence sign up page](2SignUp.png)
 
-3. Sign up for [Zotero](https://www.zotero.org/) (not required, but may be helpful)
+Follow the prompts you will receive via email to activate your account.
+
+![image of email from Covidence](4SignUp.png)
+
+### 3. Sign up for [Zotero](https://www.zotero.org/) (*not required*, but may be helpful)
 
 > If you have a Zotero account (created for the class or an old one), please send the email associated with your account to mrethlefsen [at] salud.unm.edu
 
 ### Files
 
 [ZoteroSample1](https://github.com/unmrds/cc-systematic-review/blob/main/ZoteroSample1.ris)
+
 [ZoteroSample2](https://github.com/unmrds/cc-systematic-review/blob/main/ZoteroSample2.ris)
+
 [ZoteroSample3](https://github.com/unmrds/cc-systematic-review/blob/main/ZoteroSample3.ris)
+
 [ZoteroSample4](https://github.com/unmrds/cc-systematic-review/blob/main/ZoteroSample4.ris)
+
 [ZoteroSample5](https://github.com/unmrds/cc-systematic-review/blob/main/ZoteroSample5.ris)
 
 ### Links
