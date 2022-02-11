@@ -18,7 +18,7 @@ If you are UNM affiliated, you may also [create your own account](https://app.co
 
 Follow the prompts you will receive via email to activate your account.
 
-![image of email from Covidence](4SignUp.png)
+![image of email from Covidence](4SignUp.PNG)
 
 ### 3. Sign up for [Zotero](https://www.zotero.org/) (*not required*, but may be helpful)
 
