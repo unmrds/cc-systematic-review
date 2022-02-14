@@ -135,6 +135,8 @@ What needs to be in a protocol?
 
 - Question and rationale
 - **Full eligibility criteria** (inclusion / exclusion criteria)
+    - All criteria for inclusion should be met (logical AND)
+    - Any criterion for exclusion leads to exclusion (logical OR)
 - All information sources, plus draft of at least one search strategy
 - Process for screening and extraction
 - Process for assessing risk of bias
