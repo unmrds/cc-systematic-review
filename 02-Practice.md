@@ -1,4 +1,4 @@
-# Practice
+# Practice (in breakout rooms with facilitators)
 
 ## Uploading Data into Covidence
 
